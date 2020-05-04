@@ -3,7 +3,7 @@ title: Noman Ur Rehman
 subtitle: Adventures of a Server Side Super Hero
 email: nomanurrehman@gmail.com
 description:
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://nomanurrehman.github.io
 author: Noman Ur Rehman
 street_address:
