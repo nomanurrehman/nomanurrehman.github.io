@@ -1,6 +1,6 @@
 # site settings
 title: Noman Ur Rehman
-subtitle: A developer pushing the boundaries of technology and re-writing (git) history...
+subtitle: undefined local variable or method for main:Object
 email: nomanurrehman@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
