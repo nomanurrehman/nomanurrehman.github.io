@@ -390,7 +390,7 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <!-- Preformatted Code -->
 <h3>Preformatted</h3>
-<pre><code class="language-javascript">i = 0;
+<pre><code>i = 0;
 
 while (!deck.isInOrder()) {
     print 'Iteration ' + i;
