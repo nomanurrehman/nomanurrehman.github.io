@@ -1,6 +1,6 @@
 # site settings
 title: Noman Ur Rehman
-subtitle: undefined local variable or method for main:Object
+subtitle: Informal documentation of the good parts...
 email: nomanurrehman@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,6 +28,8 @@ linkedin_url: https://www.linkedin.com/in/nomanurrehman/
 pinterest_url:
 slack_url:
 twitter_url:
+xing_url: https://www.xing.com/profile/NomanUr_Rehman
+stackoverflow_url: https://stackoverflow.com/users/3501228/noman
 
 # build settings
 markdown: kramdown
