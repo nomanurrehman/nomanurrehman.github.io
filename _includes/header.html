@@ -16,7 +16,7 @@
 		    {% if page.layout == "home" %}
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 			{% endif %}
-			{% if page.title == "Elements" and page.nav-menu == true %}
+			{% if page.title == "Elements" or page.title == "About" and page.nav-menu == true %}
 		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 		    {% endif %}
 		{% endfor %}
