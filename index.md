@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Noman Ur Rehman. I speak Ruby, Php and love Amazon Web Services.'
+landing-title: 'Hi, my name is Noman Ur Rehman. I speak Javascript, Ruby, Php and love Amazon Web Services.'
 description: null
 image: null
 author: null
