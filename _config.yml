@@ -1,6 +1,6 @@
 # site settings
-title: #Noman Ur Rehman
-subtitle: #Informal documentation of the good parts...
+title: Noman Ur Rehman
+subtitle: Instance of class Human
 email: nomanurrehman@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
